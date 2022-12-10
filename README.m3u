@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1,BLU Radio
+http://45.177.53.7:8000/play/a03o/index.m3u8
+#EXTINF:-1,CANAL 1
+http://45.177.53.7:8000/play/a048/index.m3u8
+#EXTINF:-1,CANAL 13
+http://45.177.53.7:8000/play/a04l/index.m3u8
+#EXTINF:-1,CANAL CAPITAL
+http://45.177.53.7:8000/play/a04k/index.m3u8
+#EXTINF:-1,CANAL CONGRESO
+http://45.177.53.7:8000/play/a04j/index.m3u8
+#EXTINF:-1,CANAL INSTITUCIONAL
+http://45.177.53.7:8000/play/a047/index.m3u8
+#EXTINF:-1,CANAL INSTITUCIONAL (R)
+http://45.177.53.7:8000/play/a04h/index.m3u8
+#EXTINF:-1,CANAL TRECE
+http://45.177.53.7:8000/play/a04d/index.m3u8
+#EXTINF:-1,CANAL TRECE +
+http://45.177.53.7:8000/play/a04e/index.m3u8
+#EXTINF:-1,CANAL UNO (R)
+http://45.177.53.7:8000/play/a04g/index.m3u8
+#EXTINF:-1,CARACOL HD 2
+http://45.177.53.7:8000/play/a03n/index.m3u8
+#EXTINF:-1,CARACOL TV HD
+http://45.177.53.7:8000/play/a03m/index.m3u8
+#EXTINF:-1,CCTV 4N
+http://45.177.53.7:8000/play/a0a1/index.m3u8
+#EXTINF:-1,CGTN
+http://45.177.53.7:8000/play/a0a2/index.m3u8
+#EXTINF:-1,CGTN DOCUMENTARY
+http://45.177.53.7:8000/play/a0a4/index.m3u8
+#EXTINF:-1,CGTN DOCUMENTARY
+http://45.177.53.7:8000/play/a05c/index.m3u8
+#EXTINF:-1,CGTN E
+http://45.177.53.7:8000/play/a0a3/index.m3u8
+#EXTINF:-1,CGTN E
+http://45.177.53.7:8000/play/a05b/index.m3u8
+#EXTINF:-1,CGTN F
+http://45.177.53.7:8000/play/a09z/index.m3u8
+#EXTINF:-1,CINE FAMILIARHD
+http://45.177.53.7:8000/play/a08i/index.m3u8
+#EXTINF:-1,CINE HISPANO HD
+http://45.177.53.7:8000/play/a07w/index.m3u8
+#EXTINF:-1,CINE INFANTIL HD
+http://45.177.53.7:8000/play/a07x/index.m3u8
+#EXTINF:-1,CINE PREMIUM HD
+http://45.177.53.7:8000/play/a08g/index.m3u8
+#EXTINF:-1,Citytv
+http://45.177.53.7:8000/play/a086/index.m3u8
+#EXTINF:-1,EJERCITO
+http://45.177.53.7:8000/play/a04t/index.m3u8
+#EXTINF:-1,EJTV
+http://45.177.53.7:8000/play/a089/index.m3u8
+#EXTINF:-1,ENLACE
+http://45.177.53.7:8000/play/a088/index.m3u8
+#EXTINF:-1,EURONEWS SPANISH HD
+http://45.177.53.7:8000/play/a09s/index.m3u8
+#EXTINF:-1,EURONEWS SPANISH HD
+http://45.177.53.7:8000/play/a05v/index.m3u8
+#EXTINF:-1,EWTN Radio Catolica Mundial
+http://45.177.53.7:8000/play/a0a5/index.m3u8
+#EXTINF:-1,EWTN Radio Catolica Mundial
+http://45.177.53.7:8000/play/a05d/index.m3u8
+#EXTINF:-1,EWTN Spanish Int'l AC3
+http://45.177.53.7:8000/play/a0a7/index.m3u8
+#EXTINF:-1,EWTN Spanish Int'l AC3
+http://45.177.53.7:8000/play/a05g/index.m3u8
+#EXTINF:-1,EWTN Spanish International
+http://45.177.53.7:8000/play/a0a0/index.m3u8
+#EXTINF:-1,EWTN Spanish International
+http://45.177.53.7:8000/play/a05a/index.m3u8
+#EXTINF:-1,EXPLOREMOS
+http://45.177.53.7:8000/play/a04b/index.m3u8
+#EXTINF:-1,Eurochannel
+http://45.177.53.7:8000/play/a05w/index.m3u8
+#EXTINF:-1,HISPAN TV
+http://45.177.53.7:8000/play/a05j/index.m3u8
+#EXTINF:-1,LA FM RADIO
+http://45.177.53.7:8000/play/a042/index.m3u8
+#EXTINF:-1,LA KALLE
+http://45.177.53.7:8000/play/a03p/index.m3u8
+#EXTINF:-1,LA MEGA
+http://45.177.53.7:8000/play/a044/index.m3u8
+#EXTINF:-1,LOVE NATURE HD
+http://45.177.53.7:8000/play/a09u/index.m3u8
+#EXTINF:-1,Love Nature HD
+http://45.177.53.7:8000/play/a05t/index.m3u8
+#EXTINF:-1,MI MUSICA HD HITS
+http://45.177.53.7:8000/play/a07z/index.m3u8
+#EXTINF:-1,MI MUSICA HD K -POP
+http://45.177.53.7:8000/play/a07y/index.m3u8
+#EXTINF:-1,MI MUSICA HD ROMANTICA
+http://45.177.53.7:8000/play/a081/index.m3u8
+#EXTINF:-1,MPT
+http://45.177.53.7:8000/play/a0al/index.m3u8
+#EXTINF:-1,MUSICA HD SALSA
+http://45.177.53.7:8000/play/a080/index.m3u8
+#EXTINF:-1,RADIO NACIONAL
+http://45.177.53.7:8000/play/a04r/index.m3u8
+#EXTINF:-1,RADIO NACIONAL
+http://45.177.53.7:8000/play/a049/index.m3u8
+#EXTINF:-1,RADIONICA
+http://45.177.53.7:8000/play/a04s/index.m3u8
+#EXTINF:-1,RADIONICA
+http://45.177.53.7:8000/play/a04a/index.m3u8
+#EXTINF:-1,RADIONICA CALI
+http://45.177.53.7:8000/play/a04x/index.m3u8
+#EXTINF:-1,RADNAL BQUILLA
+http://45.177.53.7:8000/play/a04u/index.m3u8
+#EXTINF:-1,RADNAL CHAPARRAL
+http://45.177.53.7:8000/play/a051/index.m3u8
+#EXTINF:-1,RADNAL CONVENCION
+http://45.177.53.7:8000/play/a04z/index.m3u8
+#EXTINF:-1,RADNAL FONSECA
+http://45.177.53.7:8000/play/a04y/index.m3u8
+#EXTINF:-1,RADNAL QUIBDO
+http://45.177.53.7:8000/play/a04v/index.m3u8
+#EXTINF:-1,RADNAL SAN JACINTO
+http://45.177.53.7:8000/play/a050/index.m3u8
+#EXTINF:-1,RADNAL VVICENCIO
+http://45.177.53.7:8000/play/a04w/index.m3u8
+#EXTINF:-1,RCN HD
+http://45.177.53.7:8000/play/a03y/index.m3u8
+#EXTINF:-1,RCN HD 2
+http://45.177.53.7:8000/play/a03z/index.m3u8
+#EXTINF:-1,RCN LA RADIO
+http://45.177.53.7:8000/play/a041/index.m3u8
+#EXTINF:-1,RCN RADIO UNO
+http://45.177.53.7:8000/play/a043/index.m3u8
+#EXTINF:-1,RT DOC
+http://45.177.53.7:8000/play/a09v/index.m3u8
+#EXTINF:-1,RT USA HD
+http://45.177.53.7:8000/play/a0am/index.m3u8
+#EXTINF:-1,Radio AD Venir
+http://45.177.53.7:8000/play/a0ac/index.m3u8
+#EXTINF:-1,Red ADvenir Internacional
+http://45.177.53.7:8000/play/a0ae/index.m3u8
+#EXTINF:-1,SBN-Global
+http://45.177.53.7:8000/play/a0ad/index.m3u8
+#EXTINF:-1,SENAL COLOMBIA (R)
+http://45.177.53.7:8000/play/a04i/index.m3u8
+#EXTINF:-1,SEÑALCOLOMBIA
+http://45.177.53.7:8000/play/a046/index.m3u8
+#EXTINF:-1,TELEANTIOQUIA (R)
+http://45.177.53.7:8000/play/a04m/index.m3u8
+#EXTINF:-1,TELECAFE (R)
+http://45.177.53.7:8000/play/a04p/index.m3u8
+#EXTINF:-1,TELECARIBE (R)
+http://45.177.53.7:8000/play/a04n/index.m3u8
+#EXTINF:-1,TELEPACIFICO (R)
+http://45.177.53.7:8000/play/a04o/index.m3u8
+#EXTINF:-1,TEST
+http://45.177.53.7:8000/play/a09w/index.m3u8
+#EXTINF:-1,TRACE SPORT STARS HD
+http://45.177.53.7:8000/play/a09t/index.m3u8
+#EXTINF:-1,TRACE SPORT STARS HD
+http://45.177.53.7:8000/play/a05x/index.m3u8
+#EXTINF:-1,TRO (R)
+http://45.177.53.7:8000/play/a04q/index.m3u8
+#EXTINF:-1,TV Latino
+http://45.177.53.7:8000/play/a0ah/index.m3u8
+#EXTINF:-1,YTN_BU
+http://45.177.53.7:8000/play/a0a6/index.m3u8
+#EXTINF:-1,Zoomoo HD LATAM
+http://45.177.53.7:8000/play/a09q/index.m3u8
+#EXTINF:-1,Zoomoo HD LATAM
+http://45.177.53.7:8000/play/a05u/index.m3u8
